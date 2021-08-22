@@ -1,0 +1,16 @@
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\C#_ABC.exe
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\C#_ABC.deps.json
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\C#_ABC.runtimeconfig.json
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\C#_ABC.runtimeconfig.dev.json
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\C#_ABC.dll
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\ref\C#_ABC.dll
+E:\Dotnet\C#_ABC\bin\Debug\net5.0\C#_ABC.pdb
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.csproj.AssemblyReference.cache
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.AssemblyInfoInputs.cache
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.AssemblyInfo.cs
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.csproj.CoreCompileInputs.cache
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.dll
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\ref\C#_ABC.dll
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.pdb
+E:\Dotnet\C#_ABC\obj\Debug\net5.0\C#_ABC.genruntimeconfig.cache
